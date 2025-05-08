@@ -9,6 +9,7 @@ description = "My first package"
 license = {file = "LICENCE.txt"}
 dependencies = [
   "numpy",
+  "pre-commit",
 ]
 
 [project.optional-dependencies]
